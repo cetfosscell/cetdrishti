@@ -1,0 +1,6 @@
+[02-Mar-2013 17:03:39 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Input\Input' not found in /home/cet34wan/public_html/katta/treasure/laravel/vendor/Symfony/Component/Console/Input/ArgvInput.php on line 42
+[02-Mar-2013 17:03:40 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Input\Input' not found in /home/cet34wan/public_html/katta/treasure/laravel/vendor/Symfony/Component/Console/Input/ArrayInput.php on line 26
+[03-Sep-2013 16:12:05 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Input\Input' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Input/ArgvInput.php on line 42
+[03-Sep-2013 16:12:05 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Input\Input' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Input/ArrayInput.php on line 26
+[03-Sep-2013 16:12:06 UTC] PHP Fatal error:  Interface 'Symfony\Component\Console\Input\InputInterface' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Input/Input.php on line 26
+[03-Sep-2013 16:12:08 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Input/StringInput.php on line 26

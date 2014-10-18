@@ -1,0 +1,3 @@
+[03-Sep-2013 16:12:00 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Helper\Helper' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Helper/DialogHelper.php on line 22
+[03-Sep-2013 16:12:04 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Helper\Helper' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Helper/FormatterHelper.php on line 20
+[03-Sep-2013 16:12:04 UTC] PHP Fatal error:  Interface 'Symfony\Component\Console\Helper\HelperInterface' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/Console/Helper/Helper.php on line 20

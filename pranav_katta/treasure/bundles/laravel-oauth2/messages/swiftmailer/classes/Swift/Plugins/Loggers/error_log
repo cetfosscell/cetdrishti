@@ -1,0 +1,2 @@
+[03-Sep-2013 16:15:36 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 19
+[03-Sep-2013 16:15:45 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/classes/Swift/Plugins/Loggers/EchoLogger.php on line 19

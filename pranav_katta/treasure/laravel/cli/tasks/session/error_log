@@ -1,0 +1,1 @@
+[03-Sep-2013 16:09:37 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/session/manager.php on line 10

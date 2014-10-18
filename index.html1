@@ -1,0 +1,48 @@
+<html>
+	<title>Drishti 2013 | College of Engineering Trivandrum</title>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   <meta name="google-site-verification" content="Qg-SODE1LIrVmZfBPrvyTiDMDwRI0N8m0meHhkQcUw8" />
+   <meta name="viewport" content="width=1024" />
+   <meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="keywords" content="Drishti,cetdrishti,cet,college of engineering trivandrum,drishti2013,techfest,kerala,trivandrum,national level techfest" />
+    <meta name="description" content="The annual national level technical fest cum exhibition of College of Engineering Trivandrum to be held on 6,7,8 September 2013. Prizes worth half a million at stake." />
+    <meta name="author" content="Pranav" />
+	<style type="text/css">
+		body
+		{
+			height: 100%;
+			width: 100%;
+			margin: 0;
+			background-image: url('./bgg.png');		
+		}
+		#div1
+		{
+			background : url('./bggg.png') 51% 51.3% no-repeat;;		
+			height: 100%;
+			width: 100%;		
+		}
+		#nav
+		{
+			width: 200px;
+			height:50px;
+			position: absolute;
+			top: 10px;
+			right: 0;		
+		}
+		#nav a
+		{
+			font-family: 'Open Sans', sans-serif;
+			font-size: 18px;
+			font-weight: bold;
+			color: #fff;
+			display: block;
+			text-decoration: none; 
+			text-transform: uppercase;
+		}
+	</style>
+	<body>
+		<div id="div1"></div>
+		<div id="nav"><a href="https://plus.google.com/113889143984102287005"  rel="publisher"></a><a href="http://cetdrishti.com/2012/">Previous Version</a></div>	
+	</body>
+</html>

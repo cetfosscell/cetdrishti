@@ -1,0 +1,4 @@
+[03-Sep-2013 16:10:40 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/dependency_maps/cache_deps.php on line 3
+[03-Sep-2013 16:10:41 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/dependency_maps/message_deps.php on line 3
+[03-Sep-2013 16:10:41 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/dependency_maps/mime_deps.php on line 5
+[03-Sep-2013 16:10:42 UTC] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home/cetdriss/public_html/pranav_katta/treasure/bundles/laravel-oauth2/messages/swiftmailer/dependency_maps/transport_deps.php on line 3

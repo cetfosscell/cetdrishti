@@ -1,0 +1,2 @@
+[03-Sep-2013 16:10:52 UTC] PHP Fatal error:  Class 'HTML' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/application/views/error/404.php on line 99
+[03-Sep-2013 16:10:53 UTC] PHP Fatal error:  Class 'HTML' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/application/views/error/500.php on line 99

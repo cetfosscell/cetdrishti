@@ -1,0 +1,1 @@
+[03-Sep-2013 16:10:48 UTC] PHP Fatal error:  Class 'Controller' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/application/controllers/admin/panel.php on line 3

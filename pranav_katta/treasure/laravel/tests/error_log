@@ -1,0 +1,8 @@
+[01-Mar-2013 15:36:07 UTC] PHP Warning:  require(paths.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/cet34wan/public_html/katta/treasure/laravel/tests/phpunit.php on line 11
+[01-Mar-2013 15:36:07 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'paths.php' (include_path='.:/opt/php53/lib/php') in /home/cet34wan/public_html/katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:02 UTC] PHP Warning:  require(paths.php): failed to open stream: No such file or directory in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:02 UTC] PHP Warning:  require(paths.php): failed to open stream: No such file or directory in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:02 UTC] PHP Fatal error:  require(): Failed opening required 'paths.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:16 UTC] PHP Warning:  require(paths.php): failed to open stream: No such file or directory in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:16 UTC] PHP Warning:  require(paths.php): failed to open stream: No such file or directory in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11
+[03-Sep-2013 16:06:16 UTC] PHP Fatal error:  require(): Failed opening required 'paths.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cetdriss/public_html/pranav_katta/treasure/laravel/tests/phpunit.php on line 11

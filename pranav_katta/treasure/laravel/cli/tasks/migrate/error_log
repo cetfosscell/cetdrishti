@@ -1,0 +1,2 @@
+[03-Sep-2013 16:09:32 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/migrate/migrator.php on line 9
+[03-Sep-2013 16:09:33 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/migrate/stub.php on line 3

@@ -1,0 +1,1 @@
+[03-Sep-2013 16:12:33 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/HttpFoundation/File/UploadedFile.php on line 27

@@ -1,0 +1,1 @@
+<img src="images/work/talks.png" style="width:100%;">

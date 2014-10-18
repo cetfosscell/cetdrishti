@@ -1,0 +1,1 @@
+[03-Sep-2013 16:10:43 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Bundle\Providers\Provider' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/bundle/providers/github.php on line 3

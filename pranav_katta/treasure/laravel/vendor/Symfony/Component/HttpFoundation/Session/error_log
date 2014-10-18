@@ -1,0 +1,1 @@
+[03-Sep-2013 16:12:34 UTC] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/vendor/Symfony/Component/HttpFoundation/Session/Session.php on line 30

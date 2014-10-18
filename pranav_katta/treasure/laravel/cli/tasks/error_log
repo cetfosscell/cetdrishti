@@ -1,0 +1,9 @@
+[01-Mar-2013 15:37:27 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cet34wan/public_html/katta/treasure/laravel/cli/tasks/help.php on line 6
+[01-Mar-2013 15:37:29 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cet34wan/public_html/katta/treasure/laravel/cli/tasks/key.php on line 6
+[01-Mar-2013 15:37:30 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cet34wan/public_html/katta/treasure/laravel/cli/tasks/route.php on line 7
+[03-Sep-2013 16:07:37 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/help.php on line 6
+[03-Sep-2013 16:07:37 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/key.php on line 6
+[03-Sep-2013 16:07:39 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/route.php on line 7
+[03-Sep-2013 16:07:48 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/help.php on line 6
+[03-Sep-2013 16:07:49 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/key.php on line 6
+[03-Sep-2013 16:07:50 UTC] PHP Fatal error:  Class 'Laravel\CLI\Tasks\Task' not found in /home/cetdriss/public_html/pranav_katta/treasure/laravel/cli/tasks/route.php on line 7
